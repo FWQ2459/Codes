@@ -1,1 +1,1 @@
-111# Codes-For-Collective-EPR-Steering
+This repository contains MATLAB code for calculating the optimal measurement directions and the collective steerability capabilities of generalized GHZ and W states. The files with the .mlx extension serve as the main scripts, while the .m files contain supporting functions.
